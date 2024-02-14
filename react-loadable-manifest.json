@@ -1,0 +1,76 @@
+{
+  "..\\layouts\\admin\\Layout.tsx -> @/layouts/admin/Admin": {
+    "id": 7586,
+    "files": [
+      "static/chunks/760.8d587bbceeae8001.js",
+      "static/chunks/467.24cf185e1e4fce49.js",
+      "static/chunks/586.873ce39d7d4631af.js"
+    ]
+  },
+  "..\\layouts\\admin\\Layout.tsx -> @/layouts/admin/Calon": {
+    "id": 3394,
+    "files": [
+      "static/chunks/760.8d587bbceeae8001.js",
+      "static/chunks/861.3ee6b7f5b270f1ea.js"
+    ]
+  },
+  "..\\layouts\\admin\\Layout.tsx -> @/layouts/admin/Dashboard": {
+    "id": 5706,
+    "files": [
+      "static/chunks/ee8b1517-3c5eb47c7284d49a.js",
+      "static/chunks/920.444c7fa3725b4b8b.js",
+      "static/chunks/12-3c69554a0c0ba1c1.js",
+      "static/chunks/706.c64958d040d8f13e.js"
+    ]
+  },
+  "..\\layouts\\admin\\Layout.tsx -> @/layouts/admin/Pemilih": {
+    "id": 6463,
+    "files": [
+      "static/chunks/760.8d587bbceeae8001.js",
+      "static/chunks/467.24cf185e1e4fce49.js",
+      "static/chunks/463.6a120ee90d16684f.js"
+    ]
+  },
+  "admin\\index.tsx -> @/components/loading/Loading": {
+    "id": 7590,
+    "files": [
+      "static/chunks/590.050e9d9c068773bd.js"
+    ]
+  },
+  "admin\\index.tsx -> @/layouts/admin/Layout": {
+    "id": 5484,
+    "files": [
+      "static/css/7c81f1e1351f6790.css",
+      "static/chunks/484.e5d5e33943e360e9.js"
+    ]
+  },
+  "admin\\index.tsx -> @/layouts/admin/Login": {
+    "id": 5535,
+    "files": [
+      "static/chunks/760.8d587bbceeae8001.js",
+      "static/chunks/121.9fe239f14e6e9479.js",
+      "static/chunks/535.2bbddfc4998f52e7.js"
+    ]
+  },
+  "index.tsx -> @/components/loading/Loading": {
+    "id": 7590,
+    "files": [
+      "static/chunks/590.050e9d9c068773bd.js"
+    ]
+  },
+  "index.tsx -> @/layouts/voter/Login": {
+    "id": 5198,
+    "files": [
+      "static/chunks/760.8d587bbceeae8001.js",
+      "static/chunks/121.9fe239f14e6e9479.js",
+      "static/chunks/198.351e0f45db27556e.js"
+    ]
+  },
+  "index.tsx -> @/layouts/voter/Vote": {
+    "id": 4644,
+    "files": [
+      "static/chunks/920.444c7fa3725b4b8b.js",
+      "static/chunks/644.b9402b282f1caa76.js"
+    ]
+  }
+}
